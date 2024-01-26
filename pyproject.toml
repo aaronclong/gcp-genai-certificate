@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "genai-cert"
+version = "0.1.0"
+description = ""
+authors = ["Aaron Long <aaron.long1@ingka.ikea.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+numpy = "^1.26.3"
+pandas = "^2.2.0"
+jupyter = "^1.0.0"
+ipykernel = "^6.29.0"
+jupyterlab = "^4.0.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
