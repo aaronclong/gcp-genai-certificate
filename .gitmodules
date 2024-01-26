@@ -1,0 +1,4 @@
+[submodule "asl-ml-immersion"]
+    path = source/asl-ml-immersion
+    url = https://github.com/GoogleCloudPlatform/asl-ml-immersion.git
+    recurse = true
